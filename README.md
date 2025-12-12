@@ -11,7 +11,7 @@
 - 🎓 Computer Science Student at **KPR Institute of Engineering and Technology**
 - 🌱 Exploring **Full-Stack Development & Data Structures**
 - 💼 Seeking opportunities in **Web Development & Software Engineering**
-- 📫 Reach me at **hareram9652@gmail.com**
+- 📫 Reach me at **hareramkushwaha054@gmail.com**
 - ⚡ Fun fact: **I think I’m sleepy and a little bit introverted 😴**
 
 ---
@@ -37,12 +37,6 @@
   </a>
   <a href="https://stackoverflow.com/users/22947450/ha-re-ram" target="blank">
     <img src="https://img.shields.io/badge/-StackOverflow-f48024?style=for-the-badge&logo=StackOverflow&logoColor=white" alt="Stack Overflow" />
-  </a>
-  <a href="https://fb.com/hareram.2644" target="blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877f2?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com/hareram.2644" target="blank">
-    <img src="https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.youtube.com/@ha-re-ram" target="blank">
     <img src="https://img.shields.io/badge/-YouTube-ff0000?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
