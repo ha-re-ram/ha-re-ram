@@ -1,27 +1,24 @@
-# Project Title
+# README
 
-A brief description of your project goes here.
+## Project Title
+
+Project description goes here.
 
 ## Badges
 
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/owner/repo/WorkflowName)](https://github.com/owner/repo/actions)  
-[![GitHub issues](https://img.shields.io/github/issues/owner/repo)](https://github.com/owner/repo/issues)  
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/owner/repo)](https://github.com/owner/repo/pulls)  
+[![Actions Status](https://github.com/ha-re-ram/ha-re-ram/workflows/CI/badge.svg)](https://github.com/ha-re-ram/ha-re-ram/actions)
+[![Coverage Status](https://coveralls.io/repos/github/ha-re-ram/ha-re-ram/badge.svg)](https://coveralls.io/github/ha-re-ram/ha-re-ram)
 
-## GitHub Stats
+## Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ha-re-ram&show_icons=true&theme=radical)  
+- **Stars:** ![GitHub stars](https://img.shields.io/github/stars/ha-re-ram/ha-re-ram)
+- **Forks:** ![GitHub forks](https://img.shields.io/github/forks/ha-re-ram/ha-re-ram)
+- **Followers:** ![GitHub followers](https://img.shields.io/github/followers/ha-re-ram)
 
-## Alternatives to Vercel and Heroku
+## Installation
 
-Instead of using services like Vercel and Heroku, consider utilizing the following reliable services:
-- **Fly.io** for deploying apps globally.
-- **Render.com** for seamless cloud-based applications.
+Instructions for setting up the project.
 
-## Setup Instructions
+## Usage
 
-Provide instructions on how to set up your project locally.
-
-## License
-
-Include license information here.
+Instructions for demonstrating how to use the project.
