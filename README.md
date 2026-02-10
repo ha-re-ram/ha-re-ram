@@ -1,24 +1,15 @@
-# README
+# My GitHub Stats
 
-## Project Title
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ha-re-ram&show_icons=true&count_private=true&theme=dark)
 
-Project description goes here.
+## Languages
 
-## Badges
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ha-re-ram&layout=compact&theme=dark)
 
-[![Actions Status](https://github.com/ha-re-ram/ha-re-ram/workflows/CI/badge.svg)](https://github.com/ha-re-ram/ha-re-ram/actions)
-[![Coverage Status](https://coveralls.io/repos/github/ha-re-ram/ha-re-ram/badge.svg)](https://coveralls.io/github/ha-re-ram/ha-re-ram)
+## Streak
 
-## Statistics
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ha-re-ram&theme=dark)
 
-- **Stars:** ![GitHub stars](https://img.shields.io/github/stars/ha-re-ram/ha-re-ram)
-- **Forks:** ![GitHub forks](https://img.shields.io/github/forks/ha-re-ram/ha-re-ram)
-- **Followers:** ![GitHub followers](https://img.shields.io/github/followers/ha-re-ram)
+## Trophies
 
-## Installation
-
-Instructions for setting up the project.
-
-## Usage
-
-Instructions for demonstrating how to use the project.
+![Trophies](https://github-profile-trophy.vercel.app/?username=ha-re-ram&theme=dark)
