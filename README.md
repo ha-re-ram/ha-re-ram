@@ -62,8 +62,8 @@ Computer Science Engineering student focused on writing correct, readable code a
 ---
 
 ## Contact
-- College email: 23cs054@kpriet.ac.in  
 - Personal email: hareramkushwaha054@gmail.com  
+- College email: 23cs054@kpriet.ac.in  
 - Phone / WhatsApp: [ +91 8340318593 ](tel:+918340318593)
 
 ---
