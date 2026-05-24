@@ -23,21 +23,25 @@ React • Node.js • Express • MongoDB • HTML • CSS • Git • GitHub
 ### 🛍️ Cara
 
 Modern responsive e-commerce frontend with SEO optimization and clean UI.
+
 🔗 https://github.com/ha-re-ram/Cara
 
 ### 🤖 AIML-Lab
 
 Collection of AI & Machine Learning experiments using Python and Jupyter Notebook.
+
 🔗 https://github.com/ha-re-ram/AIML-Lab
 
 ### ☕ Console-project-java
 
 Java console applications demonstrating OOP and clean architecture concepts.
+
 🔗 https://github.com/ha-re-ram/Console-project-java
 
 ### 💬 AI-chatbot-web
 
 Interactive chatbot web application built using HTML, CSS, JavaScript, and PHP.
+
 🔗 https://github.com/ha-re-ram/AI-chatbot-web
 
 ---
