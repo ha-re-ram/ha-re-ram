@@ -1,69 +1,56 @@
-# Hareram Kushwaha
+# Hi, I'm Hareram Kushwaha 👋
 
-Computer Science Engineering student focused on writing correct, readable code and improving problem-solving skills through consistent practice. I prefer clear, maintainable solutions and enjoy building small projects to learn new tools and concepts.
+Computer Science Engineering student passionate about building clean, practical, and user-focused software solutions.
 
----
-
-## About
-- Discipline: Computer Science & Engineering — KPR Institute of Engineering and Technology  
-- Interests: Full-Stack Development (MERN), Algorithms & Data Structures, backend services, and system design fundamentals
+* 💻 Interested in Full-Stack Development, Backend Systems, and AI/ML
+* 🌱 Currently improving problem-solving, software design, and development workflow
+* ⚡ Focused on writing readable and maintainable code
 
 ---
 
-## Tech
-- Java  
-- JavaScript (ES6+)  
-- Python (fundamentals)  
-- HTML & CSS  
-- Git & GitHub
+## 🛠️ Tech Stack
+
+**Languages:**
+Java • JavaScript • Python • C
+
+**Web & Tools:**
+React • Node.js • Express • MongoDB • HTML • CSS • Git • GitHub
 
 ---
 
-## Selected Projects
-(Short, sharable projects from my public repos — click for details)
+## 🌟 Featured Projects
 
-- E-commerce Website — responsive store UI with product listings and cart interactions  
-  https://github.com/ha-re-ram/E-commerce-website
+### 🛍️ Cara
 
-- Weather App — interactive client-side app that fetches weather data (OpenWeatherMap)  
-  https://github.com/ha-re-ram/weatherapp
+Modern responsive e-commerce frontend with SEO optimization and clean UI.
+🔗 https://github.com/ha-re-ram/Cara
 
-- Habit-Forge — small productivity/web experiment (habit tracker prototype)  
-  https://github.com/ha-re-ram/Habit-Forge
+### 🤖 AIML-Lab
 
-- AIML-Lab — Python notebooks and exercises demonstrating AI/ML basics and experiments  
-  https://github.com/ha-re-ram/AIML-Lab
+Collection of AI & Machine Learning experiments using Python and Jupyter Notebook.
+🔗 https://github.com/ha-re-ram/AIML-Lab
 
-- OS-Lab — collection of Operating Systems lab programs and documentation (C programs, experiments)  
-  https://github.com/ha-re-ram/OS-Lab
+### ☕ Console-project-java
 
-- OS-Project — Operating Systems project: virtual memory GUI, custom shell and related work  
-  https://github.com/ha-re-ram/OS-Project
+Java console applications demonstrating OOP and clean architecture concepts.
+🔗 https://github.com/ha-re-ram/Console-project-java
 
-(Each project has its own README with setup and usage — see repository pages for screenshots, installation steps, and source code.)
+### 💬 AI-chatbot-web
 
----
-
-## Work & Practice
-- Regular practice of Data Structures and Algorithms on:
-  - LeetCode: https://leetcode.com/u/23cs054/  
-  - HackerRank: https://www.hackerrank.com/profile/ha_re_ram
-
-- Java programs covering core OOP concepts, edge-case handling, and algorithmic correctness.
-
-- Small web experiments using React and Node.js to apply full-stack concepts.
+Interactive chatbot web application built using HTML, CSS, JavaScript, and PHP.
+🔗 https://github.com/ha-re-ram/AI-chatbot-web
 
 ---
 
-## Professional Presence
-- LinkedIn: https://linkedin.com/in/ha-re-ram  
-- GitHub: https://github.com/ha-re-ram
+## 📚 Coding Profiles
+
+* LeetCode: https://leetcode.com/u/23cs054/
+* HackerRank: https://www.hackerrank.com/profile/ha_re_ram
 
 ---
 
-## Contact
-- Personal email: hareramkushwaha054@gmail.com  
-- College email: 23cs054@kpriet.ac.in  
-- Phone / WhatsApp: [ +91 8340318593 ](tel:+918340318593)
+## 🌐 Connect With Me
 
----
+* GitHub: https://github.com/ha-re-ram
+* LinkedIn: https://linkedin.com/in/ha-re-ram
+* Email: [hareramkushwaha054@gmail.com](mailto:hareramkushwaha054@gmail.com)
